@@ -9,7 +9,7 @@ const App = () => {
       <Hero />
       <SearchForm />
       <List />
-    </Container>
+    </Container>    
   );
 };
 export default App;

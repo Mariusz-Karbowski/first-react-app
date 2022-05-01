@@ -1,0 +1,16 @@
+@import '../../styles/settings.scss';
+
+.columnForm {
+  text-align:center;
+  padding: 10px;
+}
+
+.inputTitle {
+  margin: 15px;
+}
+
+@media (max-wdth: 767px) {
+  .columnForm {
+    display: block;
+  }
+}
